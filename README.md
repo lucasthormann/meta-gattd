@@ -8,7 +8,8 @@
 * Vi IMproved 9.1
 
 ## Target Environment:
-* Raspberry Pi 4 Model B
+* Raspberry Pi 4 Model B (Broadcom BCM2711 SoC)
+* The BCM2711 features a quad-core ARM Cortex-A72 64-bit CPU cluster
 
 
 
